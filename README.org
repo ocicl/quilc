@@ -1,0 +1,9 @@
+* quilc
+
+The optimizing Quil compiler.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/quil-lang/quilc.git |
+| commit  | 3d83b66                                    |
+| systems | boondoggle-tests boondoggle cl-quil-benchmarking cl-quil-tests cl-quil quilc-tests quilc |
+|---------+--------------------------------------------|
