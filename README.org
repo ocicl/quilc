@@ -7,3 +7,4 @@ The optimizing Quil compiler.
 | commit  | 3d83b66                                    |
 | systems | boondoggle-tests boondoggle cl-quil-benchmarking cl-quil-tests cl-quil quilc-tests quilc |
 |---------+--------------------------------------------|
+ 
